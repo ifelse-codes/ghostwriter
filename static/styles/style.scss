@@ -2,10 +2,9 @@
 // ============================================================ //
 // ============================================================ //
 
-// $primary: #F03838;
-$primary: yellowgreen;
-$secondary: rgba(0, 174, 255, 0.479);
-$background: rgb(238, 237, 161);
+$primary: #F03838;
+$secondary: #303030;
+$background: #FEFEFE;
 
 /* ============================================================ */
 /* Base */
@@ -18,7 +17,7 @@ html, body { height: 100%; }
 
 body {
     background: $background;
-    color: #424242;
+    color: #343434 !important;
     font-family: "Open Sans", arial, sans-serif;
     font-size: 18px;
 }
